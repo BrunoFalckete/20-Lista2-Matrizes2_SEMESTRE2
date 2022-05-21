@@ -29,7 +29,6 @@ void imprime_diagonal_e_zeros();
 void imprime_acima_da_diagonal();
 
 int main(){
-    
     setlocale(LC_ALL, "portuguese-brazilian");
     int escolha, contador_geral = 1;
 
